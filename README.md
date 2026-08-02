@@ -98,7 +98,13 @@ SafarSetu-Bihar-s-Transport-Bridge/
 
 To run the SafarSetu interactive prototype on your local machine, ensure you have [Node.js](https://nodejs.org/en/) installed.
 
-### 1. Clone the repository
+### 1. View Live Application
+You can interact with the live deployed application directly at:
+**🔗 Live Demo:** [https://SudhanshuRanjan17.github.io/Safar_Sathi-/](https://SudhanshuRanjan17.github.io/Safar_Sathi-/)
+
+*(Note for Mobile App Expectations: Since this is a highly optimized interactive mobile web application, it runs perfectly inside any standard mobile browser (Chrome/Safari). There is no Expo Go or APK download required.)*
+
+### 2. Clone the repository for Local Dev
 ```bash
 git clone https://github.com/SudhanshuRanjan17/Safar_Sathi-.git
 cd Safar_Sathi-
