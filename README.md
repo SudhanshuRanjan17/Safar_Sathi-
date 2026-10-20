@@ -1,6 +1,19 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SudhanshuRanjan17/Safar_Sathi-/main/logo-placeholder.png" alt="SafarSetu Logo" width="150" onerror="this.src='https://via.placeholder.com/150?text=SafarSetu'"/>
-  
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SudhanshuRanjan17/Safar_Sathi-/main/logo-placeholder.png"
+    alt="Safar Setu Logo"
+    width="150"
+  />
+</p>
+
+<h1 align="center">Safar Setu</h1>
+
+<p align="center">
+  <strong>Your Journey, Our Connection</strong>
+</p>
+
+
   # SafarSetu - Bihar's Transport Bridge (Safar_Sathi)
   
   **A highly interactive, hyper-localized, offline-first mobile web application bridging the transport gaps in Bihar.**
