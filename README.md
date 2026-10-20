@@ -1,9 +1,9 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/SudhanshuRanjan17/Safar_Sathi-/main/logo-placeholder.png"
+    src="https://raw.githubusercontent.com/SudhanshuRanjan17/Safar_Sathi-/main/Safar%20Setu%20Journey%20Badge.png"
     alt="Safar Setu Logo"
-    width="150"
+    width="200"
   />
 </p>
 
@@ -11,6 +11,10 @@
 
 <p align="center">
   <strong>Your Journey, Our Connection</strong>
+</p>
+
+<p align="center">
+  A smarter way to connect people with their destinations.
 </p>
 
 
